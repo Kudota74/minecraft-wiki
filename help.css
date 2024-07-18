@@ -4,10 +4,12 @@ button{background-color: red;}
 body{background-image: url(./1080728266853547b19284.89385942fon.png);
 background-color: gray;}
 .hel1{color: lightgray;}
-.help1{background-color: black;
+.help1{
+    /* background-color: black; */
 height: 200px;
 width: 750px;
-margin-top: 350px;
-background-size: ;}
-.svyaz{color: antiquewhite;
-margin-top: ;}
+margin-top: 350px;}
+.svyaz{color: antiquewhite;}
+.jue{background-color: black;}
+.legend{font-size: 25px; 
+    text-shadow: 1px 1px 2px rgb(153, 39, 153), 0 0 1em rgb(154, 185, 231), 0 0 0.2em rgb(0, 0, 0)}
