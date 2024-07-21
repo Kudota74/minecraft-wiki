@@ -40,3 +40,29 @@ margin-left: 15px;}
 .creeper{margin-bottom: 25px;
 margin-left: 15px;}
 .log1{padding-bottom: 2;}
+.main2{display: flex;
+margin-top: 60px;}
+.mobsBut{background-color: lightgray;
+font-size: 15px;
+padding-right: 30px;
+border: 15px;
+border-radius: 10px;
+text-align: right;
+cursor: pointer;
+justify-content: center;
+text-align: center;
+box-shadow: 3px 3px 4px black;
+display:flex;
+align-items: center;
+font-size: 15px;
+transition: transform 0.3s ease;}
+
+.mobsBut:hover{transform: scale(1.06);}
+
+.mobsBut:active{display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 240px;
+    height: 60px;
+    border: none;
+    animation: animation 5s linear infinite;}
